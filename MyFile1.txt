@@ -2,3 +2,5 @@ Modifica 1 da  repository locale.
 Modifica da repository remoto.
 
 Modifica da locale nel ramo MyBranch1
+
+Conflitto 
