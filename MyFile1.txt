@@ -1,3 +1,1 @@
-conflitto 2
-
-conflitto 3
+Modifica da branch1
